@@ -1,0 +1,3 @@
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/mpeng/stdlib.git

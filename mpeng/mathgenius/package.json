@@ -1,0 +1,22 @@
+{
+  "name": "mathgenius",
+  "version": "0.0.0",
+  "description": "",
+  "author": "mpeng <wensheng.peng@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "request": "^2.85.0"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "mpeng/mathgenius",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}

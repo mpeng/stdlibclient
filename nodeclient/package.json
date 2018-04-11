@@ -1,0 +1,24 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "simple way to use http(s)",
+  "main": "call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mpeng",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpeng"
+  },
+  "keywords": [
+    "http",
+    "client"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-fetch": "^2.1.2",
+    "request": "^2.85.0"
+  }
+}
