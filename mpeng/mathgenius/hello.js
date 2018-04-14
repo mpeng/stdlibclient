@@ -1,1 +1,0 @@
-lib.mpeng.mathgenius['@dev']()
